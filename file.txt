@@ -1,4 +1,8 @@
 this is file 
 
+<<<<<<< HEAD
 
 this is master branch changes
+=======
+this is branch one
+>>>>>>> branch1
